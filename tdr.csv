@@ -1,52 +1,51 @@
-DATE,INVOICE NO,NAME,  BILL VALUE  ,  PENDING VALUE  ,  (< 30 days )  ,  30 to 60 days  ,  60 to 90 days  ,  (> 90 days )  ,  CHEQUE WITH US  ,  FINAL PENDING VALUE  ,DUE ON,Company
-30-Jul-16,FY2016-2017,Shine Power Solutions," 7,51,842 "," 7,51,842 ",,,," 7,51,842 ",," 7,51,842 ",29-Aug-16,TDG
-10-Jan-18,TDCHN180195,Embassy Services Private Limited-NPR," 7,341 "," 7,341 ",,,," 7,341 ",," 7,341 ",09-Feb-18,TDG
-10-Jan-18,TDCHN180203,Embassy Services Private Limited-NPR," 7,375 "," 7,375 ",,,," 7,375 ",," 7,375 ",09-Feb-18,TDG
-10-Jan-18,TDCHN180211,Embassy Services Private Limited-NPR," 7,375 "," 7,375 ",,,," 7,375 ",," 7,375 ",09-Feb-18,TDG
-31-Mar-18,TDCHN180329,Embassy Services Private Limited-NPR," 7,375 "," 7,375 ",,,," 7,375 ",," 7,375 ",30-Apr-18,TDG
-06-Apr-18,TDGCHN180005,APOLLO HOSPITALS ENTERPRISE LTD-NPR," 20,128 "," 20,128 ",,,," 20,128 ",," 20,128 ",06-May-18,TDG
-25-Sep-18,TDGCHN180198,AGS Cinemas  Private Limited," 5,272 "," 5,272 ",,,," 5,272 ",," 5,272 ",25-Oct-18,TDG
-22-Oct-18,TDGCHN180224,AGS Cinemas  Private Limited," 4,400 "," 4,400 ",,,," 4,400 ",," 4,400 ",21-Nov-18,TDG
-30-Mar-19,TDGCHN180431,Superintending Engineer," 4,06,943 "," 4,06,943 ",,,," 4,06,943 ",," 4,06,943 ",29-Apr-19,TDG
-13-Jun-19,TDG-19200092,AGS Cinemas  Private Limited," 4,700 "," 4,700 ",,,," 4,700 ",," 4,700 ",13-Jun-19,TDG
-10-Jun-20,TDG-20210020,EMERON TECHNOLOGIES PRIVATE LIMITED-NPR," 1,24,032 "," 1,24,032 ",,,," 1,24,032 ",," 1,24,032 ",10-Jul-20,TDG
-11-Jul-20,TDG-20210048,Smartcare Power Solutions - Hyderabad," 61,440 "," 61,440 ",,,," 61,440 ",," 61,440 ",10-Aug-20,TDG
-29-Aug-20,TDG-20210085,Embassy Services Private Limited-NPR," 1,325 "," 1,325 ",,,," 1,325 ",," 1,325 ",28-Sep-20,TDG
-01-Oct-20,TDG-20210103,APOLLO HOSPITALS ENTERPRISE LTD-NPR," 6,144 "," 6,144 ",,,," 6,144 ",," 6,144 ",31-Oct-20,TDG
-15-Dec-20,TDG-20210180,Embassy Services Private Limited-NPR," 17,307 "," 17,307 ",,,," 17,307 ",," 17,307 ",14-Jan-21,TDG
-22-Dec-20,TDG-20210186,TUBE INVESTMENTS OF INDIA LTD-NPR," 17,700 "," 17,700 ",,,," 17,700 ",," 17,700 ",21-Jan-21,TDG
-02-Mar-21,TDG-20210240,AGS Cinemas  Private Limited," 3,200 "," 3,200 ",,,," 3,200 ",," 3,200 ",01-Apr-21,TDG
-24-Mar-21,TDG-20210261,Embassy Services Private Limited-NPR," 6,490 "," 6,490 ",,,," 6,490 ",," 6,490 ",23-Apr-21,TDG
-31-Mar-21,TDG-20210271,Embassy Services Private Limited-NPR," 6,490 "," 6,490 ",,,," 6,490 ",," 6,490 ",30-Apr-21,TDG
-01-Apr-21,TDG-19200156,Sri Sairam Matriculation School - NPR," 1,536 "," 1,536 ",,,," 1,536 ",," 1,536 ",01-May-21,TDG
-08-Jul-21,TDG-212200042,Embassy Services Private Limited," 12,417 "," 12,417 ",,,," 12,417 ",," 12,417 ",07-Aug-21,TDG
-23-Aug-21,TDG-212200076,Embassy Services Private Limited," 12,980 "," 12,980 ",,,," 12,980 ",," 12,980 ",22-Sep-21,TDG
-01-Oct-21,TDG-2122000102,Sri Sairam Engineering College," 34,752 "," 34,752 ",,,," 34,752 ",," 34,752 ",01-Oct-21,TDG
-01-Oct-21,TDG-2122000103,Sri Sairam Institute of Technology," 1,12,944 "," 1,12,944 ",,,," 1,12,944 "," 1,12,944 ",,01-Oct-21,TDG
-05-Oct-21,TDG-2122000105,National Institute Of Allergy And Infectious Diseases," 2,048 "," 1,812 ",,," 1,812 ",,," 1,812 ",04-Nov-21,TDG
-20-Nov-21,TDG-2122000126,Embassy Services Private Limited," 1,946 "," 1,946 ",," 1,946 ",,,," 1,946 ",20-Dec-21,TDG
-04-Dec-21,TDG-2122000134,Ticel Bio Park Ltd," 97,993 "," 97,993 "," 97,993 ",,,,," 97,993 ",03-Jan-22,TDG
-28-Dec-21,TDG-2122000142,Sri Sairam Engineering College," 53,345 "," 53,345 "," 53,345 ",,,," 53,345 ",,27-Jan-22,TDG
-04-Jan-22,TDG-2122000143,Electronics Corporation of India Limited," 76,140 "," 76,140 "," 76,140 ",,,,," 76,140 ",03-Feb-22,TDG
-07-Jan-22,TDG-2122000147,Superintending Engineer," 1,99,453 "," 1,99,453 "," 1,99,453 ",,,,," 1,99,453 ",06-Feb-22,TDG
-07-Jan-22,TDG-21220000144,Ticel Bio Park Ltd," 70,800 "," 70,800 "," 70,800 ",,,,," 70,800 ",06-Feb-22,TDG
-07-Jan-22,TDG-2122000146,Timken Engineering & Research India Pvt. Ltd.," 22,500 "," 22,500 "," 22,500 ",,,,," 22,500 ",06-Feb-22,TDG
+DATE,INVOICE NO,NAME,   BILL VALUE   ,   PENDING VALUE   ,   (< 30 days )   ,   30 to 60 days   ,   60 to 90 days   ,   (> 90 days )   ,   CHEQUE WITH US   ,   FINAL PENDING VALUE   ,DUE ON,Company,LUD
+30-Jul-16,FY2016-2017,Shine Power Solutions," 7,51,842.00 "," 7,51,842.00 ",,,," 7,51,842.00 ",," 7,51,842.00 ",29-Aug-16,TDG,03-02-2022
+10-Jan-18,TDCHN180195,Embassy Services Private Limited-NPR," 7,341.00 "," 7,341.00 ",,,," 7,341.00 ",," 7,341.00 ",09-Feb-18,TDG,03-02-2022
+10-Jan-18,TDCHN180203,Embassy Services Private Limited-NPR," 7,375.00 "," 7,375.00 ",,,," 7,375.00 ",," 7,375.00 ",09-Feb-18,TDG,03-02-2022
+10-Jan-18,TDCHN180211,Embassy Services Private Limited-NPR," 7,375.00 "," 7,375.00 ",,,," 7,375.00 ",," 7,375.00 ",09-Feb-18,TDG,03-02-2022
+31-Mar-18,TDCHN180329,Embassy Services Private Limited-NPR," 7,375.00 "," 7,375.00 ",,,," 7,375.00 ",," 7,375.00 ",30-Apr-18,TDG,03-02-2022
+06-Apr-18,TDGCHN180005,APOLLO HOSPITALS ENTERPRISE LTD-NPR," 20,128.00 "," 20,128.00 ",,,," 20,128.00 ",," 20,128.00 ",06-May-18,TDG,03-02-2022
+25-Sep-18,TDGCHN180198,AGS Cinemas  Private Limited," 5,272.00 "," 5,272.00 ",,,," 5,272.00 ",," 5,272.00 ",25-Oct-18,TDG,03-02-2022
+22-Oct-18,TDGCHN180224,AGS Cinemas  Private Limited," 4,400.00 "," 4,400.00 ",,,," 4,400.00 ",," 4,400.00 ",21-Nov-18,TDG,03-02-2022
+30-Mar-19,TDGCHN180431,Superintending Engineer," 4,06,943.00 "," 4,06,943.00 ",,,," 4,06,943.00 ",," 4,06,943.00 ",29-Apr-19,TDG,03-02-2022
+13-Jun-19,TDG-19200092,AGS Cinemas  Private Limited," 4,700.00 "," 4,700.00 ",,,," 4,700.00 ",," 4,700.00 ",13-Jun-19,TDG,03-02-2022
+10-Jun-20,TDG-20210020,EMERON TECHNOLOGIES PRIVATE LIMITED-NPR," 56,320.00 "," 56,320.00 ",,,," 56,320.00 ",," 56,320.00 ",10-Jul-20,TDG,03-02-2022
+11-Jul-20,TDG-20210048,Smartcare Power Solutions - Hyderabad," 61,440.00 "," 61,440.00 ",,,," 61,440.00 ",," 61,440.00 ",10-Aug-20,TDG,03-02-2022
+29-Aug-20,TDG-20210085,Embassy Services Private Limited-NPR," 1,325.00 "," 1,325.00 ",,,," 1,325.00 ",," 1,325.00 ",28-Sep-20,TDG,03-02-2022
+01-Oct-20,TDG-20210103,APOLLO HOSPITALS ENTERPRISE LTD-NPR," 6,144.00 "," 6,144.00 ",,,," 6,144.00 ",," 6,144.00 ",31-Oct-20,TDG,03-02-2022
+15-Dec-20,TDG-20210180,Embassy Services Private Limited-NPR," 17,307.00 "," 17,307.00 ",,,," 17,307.00 ",," 17,307.00 ",14-Jan-21,TDG,03-02-2022
+22-Dec-20,TDG-20210186,TUBE INVESTMENTS OF INDIA LTD-NPR," 17,700.00 "," 17,700.00 ",,,," 17,700.00 ",," 17,700.00 ",21-Jan-21,TDG,03-02-2022
+02-Mar-21,TDG-20210240,AGS Cinemas  Private Limited," 3,200.00 "," 3,200.00 ",,,," 3,200.00 ",," 3,200.00 ",01-Apr-21,TDG,03-02-2022
+24-Mar-21,TDG-20210261,Embassy Services Private Limited-NPR," 6,490.00 "," 6,490.00 ",,,," 6,490.00 ",," 6,490.00 ",23-Apr-21,TDG,03-02-2022
+31-Mar-21,TDG-20210271,Embassy Services Private Limited-NPR," 6,490.00 "," 6,490.00 ",,,," 6,490.00 ",," 6,490.00 ",30-Apr-21,TDG,03-02-2022
+01-Apr-21,TDG-19200156,Sri Sairam Matriculation School - NPR," 1,536.00 "," 1,536.00 ",,,," 1,536.00 ",," 1,536.00 ",01-May-21,TDG,03-02-2022
+08-Jul-21,TDG-212200042,Embassy Services Private Limited," 12,417.00 "," 12,417.00 ",,,," 12,417.00 ",," 12,417.00 ",07-Aug-21,TDG,03-02-2022
+23-Aug-21,TDG-212200076,Embassy Services Private Limited," 12,980.00 "," 12,980.00 ",,,," 12,980.00 ",," 12,980.00 ",22-Sep-21,TDG,03-02-2022
+01-Oct-21,TDG-2122000102,Sri Sairam Engineering College," 34,752.00 "," 34,752.00 ",,,," 34,752.00 ",," 34,752.00 ",01-Oct-21,TDG,03-02-2022
+05-Oct-21,TDG-2122000105,National Institute Of Allergy And Infectious Diseases," 1,812.00 "," 1,812.00 ",,,," 1,812.00 ",," 1,812.00 ",04-Nov-21,TDG,03-02-2022
+20-Nov-21,TDG-2122000126,Embassy Services Private Limited," 1,946.00 "," 1,946.00 ",," 1,946.00 ",,,," 1,946.00 ",20-Dec-21,TDG,03-02-2022
+04-Dec-21,TDG-2122000134,Ticel Bio Park Ltd," 1,661.00 "," 1,661.00 ",," 1,661.00 ",,,," 1,661.00 ",03-Jan-22,TDG,03-02-2022
+04-Jan-22,TDG-2122000143,Electronics Corporation of India Limited," 76,140.00 "," 76,140.00 "," 76,140.00 ",,,,," 76,140.00 ",03-Feb-22,TDG,03-02-2022
+07-Jan-22,TDG-2122000147,Superintending Engineer," 1,99,453.00 "," 1,99,453.00 "," 1,99,453.00 ",,,,," 1,99,453.00 ",06-Feb-22,TDG,03-02-2022
+07-Jan-22,TDG-21220000144,Ticel Bio Park Ltd," 1,200.00 "," 1,200.00 "," 1,200.00 ",,,,," 1,200.00 ",06-Feb-22,TDG,03-02-2022
 07-Jan-22,TDG-2122000145,"TRIVITRON HEALTHCARE PVT.LTD.
-"," 1,78,770 "," 1,78,770 "," 1,78,770 ",,,,," 1,78,770 ",14-Jan-22,TDG
-10-Jan-22,TDG-2122000148,Timken Engineering & Research India Pvt. Ltd.," 5,220 "," 5,220 "," 5,220 ",,,,," 5,220 ",09-Feb-22,TDG
-20-Jan-22,TDG-2122000149,TUBE INVESTMENTS OF INDIA LTD," 51,200 "," 45,536 "," 45,536 ",,,,," 45,536 ",19-Feb-22,TDG
-24-Jan-22,TDG-2122000153,Sri Sairam Engineering College," 56,472 "," 56,472 "," 56,472 ",,,,," 56,472 ",31-Jan-22,TDG
-27-Jan-22,TDG-2122000156,Timken Engineering & Research India Pvt. Ltd.," 58,500 "," 58,500 "," 58,500 ",,,,," 58,500 ",26-Feb-22,TDG
-28-Jan-22,TDG-2122000157,Embassy Services Private Limited," 12,980 "," 12,980 "," 12,980 ",,,,," 12,980 ",27-Feb-22,TDG
-28-Jan-22,TDG-2122000158,Embassy Services Private Limited," 6,490 "," 6,490 "," 6,490 ",,,,," 6,490 ",27-Feb-22,TDG
-23-Oct-21,TDIS-212200071,OPC Asset Solutions Private Limited," 29,836 "," 24,700 ",,," 24,700 ",,," 24,700 ",22-Nov-21,TDIS
+"," 1,78,770.00 "," 1,78,770.00 "," 1,78,770.00 ",,,,," 1,78,770.00 ",14-Jan-22,TDG,03-02-2022
+10-Jan-22,TDG-2122000148,Timken Engineering & Research India Pvt. Ltd.," 5,220.00 "," 5,220.00 "," 5,220.00 ",,,,," 5,220.00 ",09-Feb-22,TDG,03-02-2022
+20-Jan-22,TDG-2122000149,TUBE INVESTMENTS OF INDIA LTD, 40.00 , 40.00 , 40.00 ,,,,, 40.00 ,19-Feb-22,TDG,03-02-2022
+24-Jan-22,TDG-2122000153,Sri Sairam Engineering College," 56,472.00 "," 56,472.00 "," 56,472.00 ",,,,," 56,472.00 ",31-Jan-22,TDG,03-02-2022
+27-Jan-22,TDG-2122000156,Timken Engineering & Research India Pvt. Ltd.," 58,500.00 "," 58,500.00 "," 58,500.00 ",,,,," 58,500.00 ",26-Feb-22,TDG,03-02-2022
+28-Jan-22,TDG-2122000157,Embassy Services Private Limited," 12,980.00 "," 12,980.00 "," 12,980.00 ",,,,," 12,980.00 ",27-Feb-22,TDG,03-02-2022
+28-Jan-22,TDG-2122000158,Embassy Services Private Limited," 6,490.00 "," 6,490.00 "," 6,490.00 ",,,,," 6,490.00 ",27-Feb-22,TDG,03-02-2022
+01-Feb-22,TDG-2122000159,Billion Honour Accounting Services Pvt Ltd," 3,58,360.00 "," 3,58,360.00 "," 3,58,360.00 ",,,,," 3,58,360.00 ",01-Feb-22,TDG,03-02-2022
+17-Sep-20,ADVANCE,Superintending Engineer," 11,15,914.00 "," 11,15,914.00 ",,,," 11,15,914.00 ",," 11,15,914.00 ",17-Oct-20,TDG,03-02-2022
+02-Nov-20,ADVANCE,Superintending Engineer," 20,96,856.00 "," 20,96,856.00 ",,,," 20,96,856.00 ",," 20,96,856.00 ",02-Dec-20,TDG,03-02-2022
+16-Sep-21,ADVANCE,TVS Toyoto Tsusho Supply Chain Solutions Ltd," 7,200.00 "," 7,200.00 ",,,," 7,200.00 ",," 7,200.00 ",16-Oct-21,TDG,03-02-2022
+28-Sep-21,ADVANCE,Sri Sairam Institute of Technology," 2,00,000.00 "," 2,00,000.00 ",,,," 2,00,000.00 ",," 2,00,000.00 ",28-Oct-21,TDG,03-02-2022
+08-Nov-21,ADVANCE,GKN DRIVELINE (I) LIMITED," 24,780.00 "," 24,780.00 ",," 24,780.00 ",,,," 24,780.00 ",08-Dec-21,TDG,03-02-2022
+28-Jan-22,ADVANCE,Punjab National Bank," 9,440.00 "," 9,440.00 "," 9,440.00 ",,,,," 9,440.00 ",27-Feb-22,TDG,03-02-2022
+23-Oct-21,TDIS-212200071,OPC Asset Solutions Private Limited," 24,700.00 "," 24,700.00 ",,," 24,700.00 ",,," 24,700.00 ",22-Nov-21,TDIS,03-02-2022
 18-Jan-22,TDIS-212200097,"Mahindra Life Space Developers Ltd
-"," 3,540 "," 3,540 "," 3,540 ",,,,," 3,540 ",18-Jan-22,TDIS
-24-Jan-22,TDIS-2122000100,Sumeet Urban Services(Chennai) II Pvt Ltd," 55,373 "," 55,373 "," 55,373 ",,,,," 55,373 ",24-Jan-22,TDIS
-24-Jan-22,TDIS-2122000101,Sumeet Urban Services(Chennai) V Pvt Ltd," 55,373 "," 55,373 "," 55,373 ",,,,," 55,373 ",24-Jan-22,TDIS
-29-Jan-22,Advance,VSL India Pvt Ltd," 53,500 "," 53,500 "," 53,500 ",,,,," 53,500 ",28-Feb-22,TDIS
-17-Sep-20,Advance,Superintending Engineer," 11,15,914 "," 11,15,914 ",,,," 11,15,914 ",," 11,15,914 ",17-Oct-20,TDG
-02-Nov-20,Advance,Superintending Engineer," 20,96,856 "," 20,96,856 ",,,," 20,96,856 ",," 20,96,856 ",02-Dec-20,TDG
-16-Sep-21,Advance,TVS Toyoto Tsusho Supply Chain Solutions Ltd," 7,200 "," 7,200 ",,,," 7,200 ",," 7,200 ",16-Oct-21,TDG
-28-Sep-21,Advance,Sri Sairam Institute of Technology," 2,00,000 "," 2,00,000 ",,,," 2,00,000 ",," 2,00,000 ",28-Oct-21,TDG
-08-Nov-21,Advance,GKN DRIVELINE (I) LIMITED," 24,780 "," 24,780 ",," 24,780 ",,,," 24,780 ",08-Dec-21,TDG
+"," 3,540.00 "," 3,540.00 "," 3,540.00 ",,,,," 3,540.00 ",18-Jan-22,TDIS,03-02-2022
+24-Jan-22,TDIS-2122000100,Sumeet Urban Services (Chennai) II Pvt Ltd," 55,373.00 "," 55,373.00 "," 55,373.00 ",,,,," 55,373.00 ",24-Jan-22,TDIS,03-02-2022
+24-Jan-22,TDIS-2122000101,Sumeet Urban Services(Chennai) V Pvt Ltd," 55,373.00 "," 55,373.00 "," 55,373.00 ",,,,," 55,373.00 ",24-Jan-22,TDIS,03-02-2022
+29-Jan-22,ADVANCE,VSL India Pvt Ltd," 53,500.00 "," 53,500.00 "," 53,500.00 ",,,,," 53,500.00 ",28-Feb-22,TDIS,03-02-2022
