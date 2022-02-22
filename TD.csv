@@ -1,28 +1,28 @@
 ORDER STATUS,,,,,,,,,,,,,,,,,
 S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO NO.,PO DATE,RATE AS PER  PO,AMOUNT,GST %,GST VALUE,TOTAL AMOUNT,STOCK IN HAND,QTY DELIVERED,BALANCE ORDERED PLACED,REMARKS,STATUS
-1,TDIS,12459,Trolley for Ups and battery,16,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1681,09-11-21,"1,160","18,560",28%,"5,197","23,757",0,16,0,Received ,Delivered
-2,TDIS,12459,1 KVA Online ups Emerson offline 20amps Liebert Iton LB,11,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1682,09-11-21,"8,500","93,500",18%,"16,830","1,10,330",0,11,0,Received ,Delivered
-3,TDIS,12459,12v 100AH Exide SMF Battery ,11,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1681,09-11-21,"6,150","67,650",18%,"12,177","79,827",0,11,0,Received,Delivered
-4,TDIS,12459,Trolley for Ups and battery,16,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1682,09-11-21,"1,160","18,560",28%,"5,197","23,757",0,5,0,Received,Delivered
+1,TDIS,12459,Trolley for Ups and battery,16,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1681,9-11-21,"1,160","18,560",28%,"5,197","23,757",0,16,0,Received ,Delivered
+2,TDIS,12459,1 KVA Online ups Emerson offline 20amps Liebert Iton LB,11,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1682,9-11-21,"8,500","93,500",18%,"16,830","1,10,330",0,11,0,Received ,Delivered
+3,TDIS,12459,12v 100AH Exide SMF Battery ,11,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1681,9-11-21,"6,150","67,650",18%,"12,177","79,827",0,11,0,Received,Delivered
+4,TDIS,12459,Trolley for Ups and battery,16,Sumeet Urban Services (Chennai) IT Pvt Ltd,SUS/2122/1682,9-11-21,"1,160","18,560",28%,"5,197","23,757",0,5,0,Received,Delivered
 5,TDG,12935,12v 26AH Exide SMF Battery ,26,Sairam Engg College,7813/F.No.1/SSEC/CH/2021,13-12-21,"2,150","55,900",28%,"15,652","71,552",0,26,0,Received,Delivered
 6,TDG,12581,12v 200AH Exide SMF Battery ,10,Embassy Services,PO/LAT-CIP/2021/03 - 1000667,29-11-21,"17,975","1,79,750",28%,"50,330","2,30,080",0,10,0,Received,Delivered
-7,TDG,9931,"Liebert APM, 100 kVA, 3 X 3, 3 Phase, UPS System",1,Timken Engineering & Research India PLtd,4541957931,14-08-21,"8,40,000","8,40,000",0%,,"8,40,000",0,0,1,PO released to Vertiv - Material not received,Material not received
-8,TDG,12229,26AH*3 Powder Coated Rack,1,Timken Engineering & Research India PLtd,4542374630,24-09-21,"1,000","1,000",18%,180,"1,180",0,1,0,Received ,Delivered
+7,TDG,9931,"Liebert APM, 100 kVA, 3 X 3, 3 Phase, UPS System",1,Timken Engineering & Research India PLtd,4541957931,14-8-21,"8,40,000","8,40,000",0%,,"8,40,000",0,0,1,PO released to Vertiv - Material not received,Material not received
+8,TDG,12229,26AH*3 Powder Coated Rack,1,Timken Engineering & Research India PLtd,4542374630,24-9-21,"1,000","1,000",18%,180,"1,180",0,1,0,Received ,Delivered
 9,TDG,13255,12v 26AH Exide SMF Battery ,16,Tube Investment of India Ltd (Unit TIDC),636502,13-11-21,"2,500","40,000",28%,"11,200","51,200",0,16,0,Received,Delivered
-10,TDIS,12935,12v 26AH Exide SMF Battery ,26,IGARASHI MOTORS INDIA LTD,2021 / 2970,17-01-22,"2,500","65,000",0%, -   ,"65,000",0,26,0,Received,Delivered
-11,TDIS,13751,12v 26AH Quanta SMF Battery ,26,Timken Engineering & Research India PLtd,4543464299,24-01-22,"2,250","58,500",0%, -   ,"58,500",0,26,0,Received,Delivered
-12,TDIS,13623,Liebert GXT-MT+ 10 kVA (1x1) UPS System,1,VSL INDIA PRIVATE LIMITED,1001097947,19-01-22,125000,"1,25,000",18%,"22,500","1,47,500",0,1,0,Received ,Delivered
-13,TDIS,13623,42AH*20 Powder Coated Rack,1,VSL INDIA PRIVATE LIMITED,1001097947,19-01-22,,,,,,0,16,0,received,Delivered
-14,TDIS,13623,12v 42AH SMF Exide Battery,20,VSL INDIA PRIVATE LIMITED,1001097953,19-01-22,3800,"76,000",28%,"21,280","97,280",0,1,0,Received ,Delivered
-15,TDG,13729,12v 150AH Exide SMF Battery,34,Billion Honour Accounting Services Pvt Ltd,BHASCHN-PO-IT-2022/23-0001,24-01-22,11000,"3,74,000",28%,"1,04,720","4,78,720",0,34,0,Received,Delivered
-16,TDG,13749,12v 65AH Exide/Quanta SMF Battery,26,TVS Supply Chain Solutions Limited,PO/01889/2122,21-01-22,4500,"1,17,000",28%,"32,760","1,49,760",0,26,0,Received,Delivered
-17,TDG,13875,12v 7AH SMF Exide Battery ,46,Sairam Vidyalaya,"7931/F.No.5/SRV,CH/2022",28-01-22,621.87,"28,606",28%,"8,010","36,616",0,46,0,Received,Delivered
-18,TDG,14023,12v 65AH Exide SMF Battery,8,"Expeditors International (India) Pvt. Ltd., ",EI/MAA-IS/CS-02/2022,02-02-22,4700,37600,28%,"10,528",48128,0,8,0,received,Material Booking in Parveen Transport
-19,TDG,13875,12v 7AH SMF Exide Battery ,12,Sai Matriculation Hr.Sec School,"7951/F.No.5/SM/HSS,CH/2022",09-02-22,621.87,7462.5,28%,"2,090",9552,0,12,0,Received,Delivered
-20,TDG,14177,12v 26AH Quanta SMF Battery,26,Timken Engineering & Research India PLtd,4543589317,11-02-22,2250,58500,0%,0,58500,0,0,26,PO released to Switching AVO,Material not received
-21,TDIS,14216,12v 26AH Exide SMF Battery,16,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",03-02-22,2150,34400,28%,9632,44032,12,0,4,PO released to Switching AVO,Material not received
-22,TDIS,14216,"GXT MT+ 6 KVA 1*1 Ups Syste,",1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",03-02-22,55000,55000,18%,"9,900",64900,1,0,0,In Stock,Delivery Pending
-23,TDIS,14216,26AH*16 Powder Coated Rack,1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",03-02-22,,,,,,0,0,1,PO Pending,Po Pending
-24,TDIS,14263,30 KVA Ups System,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-22,282150,282150,5%,14108,296258,0,0,1,PO Pending,Po Pending
-25,TDIS,14263,12v 65AH Exide SMF Battery,40,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-22,4465,178600,5%,8930,187530,0,0,40,PO Pending,Po Pending
-16,TDIS,14263,65AH*40 Powder Coated Rack,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-22,,,,,,0,0,1,PO Pending,Po Pending
+10,TDIS,12935,12v 26AH Exide SMF Battery ,26,IGARASHI MOTORS INDIA LTD,2021 / 2970,17-1-22,"2,500","65,000",0%, -   ,"65,000",0,26,0,Received,Delivered
+11,TDIS,13751,12v 26AH Quanta SMF Battery ,26,Timken Engineering & Research India PLtd,4543464299,24-1-22,"2,250","58,500",0%, -   ,"58,500",0,26,0,Received,Delivered
+12,TDIS,13623,Liebert GXT-MT+ 10 kVA (1x1) UPS System,1,VSL INDIA PRIVATE LIMITED,1001097947,19-1-22,125000,"1,25,000",18%,"22,500","1,47,500",0,1,0,Received ,Delivered
+13,TDIS,13623,42AH*20 Powder Coated Rack,1,VSL INDIA PRIVATE LIMITED,1001097947,19-1-22,,,,,,0,16,0,received,Delivered
+14,TDIS,13623,12v 42AH SMF Exide Battery,20,VSL INDIA PRIVATE LIMITED,1001097953,19-1-22,3800,"76,000",28%,"21,280","97,280",0,1,0,Received ,Delivered
+15,TDG,13729,12v 150AH Exide SMF Battery,34,Billion Honour Accounting Services Pvt Ltd,BHASCHN-PO-IT-2022/23-0001,24-1-22,11000,"3,74,000",28%,"1,04,720","4,78,720",0,34,0,Received,Delivered
+16,TDG,13749,12v 65AH Exide/Quanta SMF Battery,26,TVS Supply Chain Solutions Limited,PO/01889/2122,21-1-22,4500,"1,17,000",28%,"32,760","1,49,760",0,26,0,Received,Delivered
+17,TDG,13875,12v 7AH SMF Exide Battery ,46,Sairam Vidyalaya,"7931/F.No.5/SRV,CH/2022",28-1-22,621.87,"28,606",28%,"8,010","36,616",0,46,0,Received,Delivered
+18,TDG,14023,12v 65AH Exide SMF Battery,8,"Expeditors International (India) Pvt. Ltd., ",EI/MAA-IS/CS-02/2022,2-2-22,4700,37600,28%,"10,528",48128,0,8,0,received,Material Booking in Parveen Transport
+19,TDG,13875,12v 7AH SMF Exide Battery ,12,Sai Matriculation Hr.Sec School,"7951/F.No.5/SM/HSS,CH/2022",9-2-22,621.87,7462.5,28%,"2,090",9552,0,12,0,Received,Delivered
+20,TDG,14177,12v 26AH Quanta SMF Battery,26,Timken Engineering & Research India PLtd,4543589317,11-2-22,2250,58500,0%,0,58500,0,0,26,PO released to Switching AVO,Material not received
+21,TDIS,14216,12v 26AH Exide SMF Battery,16,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,2150,34400,28%,9632,44032,12,0,4,PO released to Switching AVO,Material not received
+22,TDIS,14216,"GXT MT+ 6 KVA 1*1 Ups Syste,",1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,55000,55000,18%,"9,900",64900,1,0,0,In Stock,Delivery Pending
+23,TDIS,14216,26AH*16 Powder Coated Rack,1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,,,,,,0,0,1,PO released to SS Enterprises,Material not received
+24,TDIS,14263,30 KVA Ups System,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,282150,282150,5%,14108,296258,0,0,1,PO Pending,Po Pending
+25,TDIS,14263,12v 65AH Exide SMF Battery,40,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,4465,178600,5%,8930,187530,0,0,40,PO Pending,Po Pending
+16,TDIS,14263,65AH*40 Powder Coated Rack,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,,,,,,0,0,1,PO Pending,Po Pending
