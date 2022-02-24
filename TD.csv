@@ -19,10 +19,10 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 17,TDG,13875,12v 7AH SMF Exide Battery ,46,Sairam Vidyalaya,"7931/F.No.5/SRV,CH/2022",28-1-22,621.87,"28,606",28%,"8,010","36,616",0,46,0,Received,Delivered
 18,TDG,14023,12v 65AH Exide SMF Battery,8,"Expeditors International (India) Pvt. Ltd., ",EI/MAA-IS/CS-02/2022,2-2-22,4700,37600,28%,"10,528",48128,0,8,0,received,Delivered
 19,TDG,13875,12v 7AH SMF Exide Battery ,12,Sai Matriculation Hr.Sec School,"7951/F.No.5/SM/HSS,CH/2022",9-2-22,621.87,7462.5,28%,"2,090",9552,0,12,0,Received,Delivered
-20,TDG,14177,12v 26AH Quanta SMF Battery,26,Timken Engineering & Research India PLtd,4543589317,11-2-22,2250,58500,0%,0,58500,0,0,26,PO released to Switching AVO,Material not received
-21,TDIS,14216,12v 26AH Exide SMF Battery,16,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,2150,34400,28%,9632,44032,12,0,4,PO released to Switching AVO,Material not received
+20,TDG,14177,12v 26AH Quanta SMF Battery,26,Timken Engineering & Research India PLtd,4543589317,11-2-22,2250,58500,0%,0,58500,0,0,26,Received,Delivery Pending
+21,TDIS,14216,12v 26AH Exide SMF Battery,16,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,2150,34400,28%,9632,44032,12,0,4,Received,Delivery Pending
 22,TDIS,14216,"GXT MT+ 6 KVA 1*1 Ups Syste,",1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,55000,55000,18%,"9,900",64900,1,0,0,In Stock,Delivery Pending
 23,TDIS,14216,26AH*16 Powder Coated Rack,1,Sairam Engg College,"7947/F.No.1/SSEC,CH/2022",3-2-22,,,,,,0,0,1,PO released to SS Enterprises,Material not received
-24,TDIS,14263,30 KVA Ups System,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,282150,282150,5%,14108,296258,0,0,1,PO Pending,Po Pending
+24,TDIS,14263,30 KVA Ups System,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,282150,282150,5%,14108,296258,0,0,1,PO released to Savex,Material not received
 25,TDIS,14263,12v 65AH Exide SMF Battery,40,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,4465,178600,5%,8930,187530,0,0,40,PO Pending,Po Pending
 16,TDIS,14263,65AH*40 Powder Coated Rack,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-2-22,,,,,,0,0,1,PO Pending,Po Pending
