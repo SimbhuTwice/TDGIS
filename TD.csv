@@ -26,7 +26,7 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 24,TDIS,14263,30 KVA Ups System,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-2022,282150,282150,5%,14108,296258,0,0,1,PO released to Savex,Material not received
 25,TDIS,14263,12v 65AH Exide SMF Battery,40,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-2022,4465,178600,5%,8930,187530,0,0,40,PO Released to Switching AVO,Material not received
 26,TDIS,14263,65AH*40 Powder Coated Rack,1,Crescent Innovation and incubation Council,CIIC/INTELLAB/21-22/40,14-02-2022,,,,,,0,0,1,PO released to SS Enterprises,Material not received
-27,TDG,14471,12v 100AH Exide SMF Battery,26,TVS Supply Chain Solutions Limited,PO/02076/2122,23-02-2022,7500,195000,28%,54600,249600,0,0,26,PO Pending,Po Pending
+27,TDG,14471,12v 100AH Exide SMF Battery,26,TVS Supply Chain Solutions Limited,PO/02076/2122,23-02-2022,7500,195000,28%,54600,249600,0,0,26,PO Released to Switching AVO,Material not received
 28,TDIS,14495, Liebert GXT-MT+ 10 kVA (1x1) UPS System with Inbuilt MBS,1,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,115000,115000,18%,20700,135700,0,0,1,PO Released to Vertiv Energy,Material not received
 29,TDIS,14495,26AH*20 Powder Coated Rack,1,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,,,,,,0,0,1,PO released to SS Enterprises,Material not received
 30,TDIS,14495,12v 26AH Exide SMF Battery,20,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,2150,43000,28%,12040,55040,0,0,20,PO Pending,Po Pending
