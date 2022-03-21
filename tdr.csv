@@ -5,7 +5,7 @@ DATE,INVOICE NO,NAME,   BILL VALUE   ,   PENDING VALUE   ,   (< 30 days )   ,   
 14-Mar-22,TDIS-2122000113,"Crescent Innovation and Incubation Council
 
 ",243788,243788,243788,,,,,243788,14-Mar-22,TDIS,19-Mar-22
-01-Feb-22,ADVANCE,Sri Sairam Institute of Technology,265380,,,,,,,,03-Mar-22,TDIS,19-Mar-22
+01-Feb-22,ADVANCE,Sri Sairam Institute of Technology,,,,,,,,265380,03-Mar-22,TDIS,19-Mar-22
 30-Jul-16,FY2016-2017,Shine Power Solutions-NPR,751842,751842,,,,751842,,751842,29-Aug-16,TDG,19-Mar-22
 10-Jan-18,TDCHN180195,Embassy Services Private Limited-NPR,7341,7341,,,,7341,,7341,09-Feb-18,TDG,19-Mar-22
 10-Jan-18,TDCHN180203,Embassy Services Private Limited-NPR,7375,7375,,,,7375,,7375,09-Feb-18,TDG,19-Mar-22
