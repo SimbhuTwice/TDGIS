@@ -35,7 +35,7 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 33,TDG,15201,12v 65AH Quanta SMF Battery ,26,Vasanth & Co Media Network Pvt. Ltd,Mail Confirmation,24-03-2022,4500,117000,28%,32760,149760,0,0,26,Delivered,Completed
 34,TDG,15377,12v 18AH Exide SMF Battery,4,Sri Saiam Siddha Medical College & Research Centre,"8093/F.3/Siddha,CH/2022",31-03-2022,1800,7200,28%,2016,9216,0,4,0,Delivered,Completed
 35,TDG,15547,12v 42AH Exide SMF Battery,16,Sri Sairam Institute of Technology,"8110/F.No.2/SSIT,CH/2022",04-04-2022,3300,52800,28%,14784,67584,0,16,0,Delivered,Completed
-36,TDG,15705,12v 26AH Exide SMF Battery,16,Sri Sairam Institute of Technology,"8109/F.No.2/SSIT,CH/2022",04-04-2022,2150,34400,28%,9632,44032,0,0,16,Received,Delivery Pending
+36,TDG,15705,12v 26AH Exide SMF Battery,16,Sri Sairam Institute of Technology,"8109/F.No.2/SSIT,CH/2022",04-04-2022,2150,34400,28%,9632,44032,0,16,0,Delivered,Completed
 37,TDG,15705,ITON CX 600VA Ups System,1,Sairam Engg College,"8116/F.No.1/SEC,CH/2022",06-04-2002,2700,2700,18%,486,3186,0,1,0,Delivered,Completed
 38,TDG,15705,ITON CX 600VA Ups System,1,Sairam Engg College,"8118/F.No.1/SEC,CH/2022",06-04-2022,2700,2700,18%,486,3186,0,1,0,Delivered,Completed
 39,TDG,15705,12v 42AH Exide SMF Battery,15,Sri Sairaj Printers,"8113/F.No.24/SRP,CH/2022",04-04-2022,3300,49500,28%,13860,63360,0,15,0,Delivered,Completed
@@ -44,20 +44,20 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 42,TDG,16069, Liebert GXT-MT+ 10 kVA (1x1) UPS System with Inbuilt MBS,1,Sri Sairam Institute of Technology,"8187/F.No.2/SSIT,CH/2022",29-04-2022,115000,115000,18%,20700,135700,0,0,1,PO released to Vertiv Energy,Material not received
 43,TDG,16069,26AH*20 Powder Coated Rack,1,Sri Sairam Institute of Technology,"8187/F.No.2/SSIT,CH/2022",29-04-2022,,,,,,0,0,1,PO released to SS Enterprises,Material not received
 44,TDG,16069,12v 26AH Exide SMF Battery,20,Sri Sairam Institute of Technology,"8187/F.No.2/SSIT,CH/2022",29-04-2022,2150,43000,28%,12040,55040,0,0,20,PO released to Switching AVO,Material not received
-45,TDIS,15895,Liebert SS600 10 KVA Ups System,1,Marina Fibers PVt Ltd Pvt Ltd,MFPL/22-23/01/002,06-05-2022,197500,197500,18%,35550,233050,0,0,1,Received,Delivery Pending
+45,TDIS,15895,Liebert S600 10 KVA Ups System,1,Marina Fibers PVt Ltd Pvt Ltd,MFPL/22-23/01/002,06-05-2022,197500,197500,18%,35550,233050,0,0,1,Received,Delivery Pending
 46,TDIS,15895,12v 42AH Exide SMF Battery,20,Marina Fibers PVt Ltd Pvt Ltd,MFPL/22-23/01/002,06-05-2022,3500,70000,28%,19600,89600,0,0,20,Received,Delivery Pending
 47,TDIS,15895,42AH*20 Powder Coated Rack,1,Marina Fibers PVt Ltd Pvt Ltd,MFPL/22-23/01/002,06-05-2022,4000,4000,18%,4000,4720,0,0,1,Received,Delivery Pending
 48,TDG,16069, Liebert GXT-MT+ 10 kVA (3x1) UPS System with Inbuilt MBS,1,Sairam Engg College,"8208/F.No.1/SEC,CH/2022",10-05-2022,125000,125000,18%,22500,147500,0,1,0,Delivered,Completed
 49,TDG,16069,26AH*20 Powder Coated Rack,1,Sairam Engg College,"8208/F.No.1/SEC,CH/2022",10-05-2022,,,,,,0,1,0,Delivered,Completed
 50,TDG,16069,12v 26AH Exide SMF Battery,20,Sairam Engg College,"8208/F.No.1/SEC,CH/2022",10-05-2022,2150,43000,28%,12040,55040,0,20,0,Delivered,Completed
-51,TDG,16195, Liebert GXT-MT+ 10 kVA (1x1) UPS System with Inbuilt MBS,1,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,115000,115000,18%,20700,135700,0,0,1,Received,Delivery Pending
-52,TDG,16195,26AH*20 Powder Coated Rack,1,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,,,,,,0,0,1,Received,Delivery Pending
-53,TDG,16195,12v 26AH Exide SMF Battery,20,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,2150,43000,28%,12040,55040,0,0,20,PO Pending,
+51,TDG,16195, Liebert GXT-MT+ 10 kVA (1x1) UPS System with Inbuilt MBS,1,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,115000,115000,18%,20700,135700,0,1,0,Delivered,Completed
+52,TDG,16195,26AH*20 Powder Coated Rack,1,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,,,,,,0,1,0,Delivered,Completed
+53,TDG,16195,12v 26AH Exide SMF Battery,20,Sri Sairam Institute of Technology,"8169/F.No.2/SSIT,CH/2022",22-04-2022,2150,43000,28%,12040,55040,0,20,0,delivered,Completed
 54,TDG,16287,12v 65AH Exide SMF Battery,32,Vasanth & Co,TD Global/BATT/22-23:013,11-05-2022,4500,144000,28%,40320,184320,0,32,0,Delivered,Completed
 55,SAFE,16391,12v 26AH Exide SMF Battery,26,IGARASHI MOTORS INDIA LTD,2022/582,19-05-2022,2600,67600,,,67600,0,26,0,Delivered,Completed
 56,TDG,16439,ITON CX 600VA Ups System,24,Sri Sairam Homoeopahy Medical College & Research Centre ,"8144/F.3/Homo,Ch/2022",25-05-2022,2700,64800,18%,11664,76464,0,0,24,PO released to Vertiv Energy,Material not received
-57,TDG,16557,12v 26AH Exide SMF Battery,16,Sri Sairam Institute of Technology,"8280/F.No.2/SSIT,CH/2022",28-05-2022,2200,35200,28%,9856,45056,0,0,16,received,Delivery Pending
+57,TDG,16557,12v 26AH Exide SMF Battery,16,Sri Sairam Institute of Technology,"8280/F.No.2/SSIT,CH/2022",28-05-2022,2200,35200,28%,9856,45056,0,16,0,Delivered,Completed
 58,TDIS,16571 ,Liebert ITA 2 20 KVA Ups System,1,Sairam Engg College,"8288/F.No.1/SEC,CH/2022",01-06-2022,225525,225525,18%,40595,266120,0,0,1,PO Pending,
-59,TDIS,16571 ,12v 26AH Exide SMF Battery,32,Sairam Engg College,"8288/F.No.1/SEC,CH/2022",01-06-2022,2200,70400,28%,19712,90112,0,0,32,received,Delivery Pending
+59,TDIS,16571 ,12v 26AH Exide SMF Battery,32,Sairam Engg College,"8288/F.No.1/SEC,CH/2022",01-06-2022,2200,70400,28%,19712,90112,0,0,20,PO Pending,
 60,TDIS,16571 ,26AH*32 Powder Coated Rack,1,Sairam Engg College,"8288/F.No.1/SEC,CH/2022",01-06-2022,,,,,,0,0,1,PO released to SS Enterprises,Material not received
 61,TDG,16601,12v 18AH Exide SMF Battery,16,"Multi Commodity Exchange of India Ltd,",TD Global/BATT/22-23:002,13-05-2022,2070,33120,28%,9274,42394,0,0,16,PO Pending,
