@@ -30,7 +30,7 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 28,TDIS,14495, Liebert GXT-MT+ 10 kVA (1x1) UPS System with Inbuilt MBS,1,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,115000,115000,18%,20700,135700,0,1,0,Delivered,Completed
 29,TDIS,14495,26AH*20 Powder Coated Rack,1,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,,,,,,0,1,0,Delivered,Completed
 30,TDIS,14495,12v 26AH Exide SMF Battery,20,Sairam Engg College,"7973/F.No.1/SSEC,CH/2022",15-02-2022,2150,43000,28%,12040,55040,0,0,20,Delivered,Completed
-31,TDIS,14519,"GXT MT+ 6 KVA 1*1 Ups Syste,",1,Rathna Fan House Pvt Ltd,TD Infra/22-23/015,14-02-2022,55957.63,55957.63,18%,10072.38,66030,0,1,0,Delivered,Completed
+31,TDIS,14519,"GXT MT+ 6 KVA 1*1 Ups System,",1,Rathna Fan House Pvt Ltd,TD Infra/22-23/015,14-02-2022,55957.63,55957.63,18%,10072.38,66030,0,1,0,Delivered,Completed
 32,TDG,14779,12v 26AH Exide SMF Battery,26,Sairam Engg College,"8048/F.No.1/SEC,CH/2022",07-03-2022,2150,55900,28%,15652,71552,26,26,0,Delivered,Completed
 33,TDG,15201,12v 65AH Quanta SMF Battery ,26,Vasanth & Co Media Network Pvt. Ltd,Mail Confirmation,24-03-2022,4500,117000,28%,32760,149760,0,0,26,Delivered,Completed
 34,TDG,15377,12v 18AH Exide SMF Battery,4,Sri Saiam Siddha Medical College & Research Centre,"8093/F.3/Siddha,CH/2022",31-03-2022,1800,7200,28%,2016,9216,0,4,0,Delivered,Completed
@@ -67,3 +67,6 @@ S. No,COMPANY,TASK No,MATERIAL FULL DESCRIPTION,PO QTY,CUSTOMER NAME,CUSTOMER PO
 64,TDIS,17363,"GXT MT+ 6 KVA 1*1 Ups Syste,",1,TVS Supply Chain Solutions Limited,Mail Confirmation,13-07-2022,"56,450","56,450",18%,10161,66611,0,1,0,Delivered,completed
 65,TDIS,17363,26AH*16 Powder Coated Rack,1,TVS Supply Chain Solutions Limited,Mail Confirmation,13-07-2022,1500,1500,18%,270,1770,0,1,0,Delivered,Completed
 66,TDIS,17363,12v 26AH Exide SMF Battery ,16,TVS Supply Chain Solutions Limited,Mail Confirmation,13-07-2022,2350,37600,28%,10528,48128,0,16,0,Delivered,Completed
+67,TDIS,,"GXT MT+ 6 KVA 1*1 Ups System,",1,Sairam Vidyalaya,"8423/F.No.5/SRV,CH/2022",15-07-2022,58000,58000,18%,10440,68440,1,0,0,In Stock,
+68,TDIS,,26AH*16 Powder Coated Rack,1,Sairam Vidyalaya,"8423/F.No.5/SRV,CH/2022",15-07-2022,,,,,,0,0,1,PO Pending,
+69,TDIS,,12v 26AH Exide SMF Battery ,16,Sairam Vidyalaya,"8423/F.No.5/SRV,CH/2022",15-07-2022,2200,35200,28%,9856,45056,0,0,16,PO Pending,
